@@ -14,7 +14,7 @@
   ],
   "comments": {
     "dependencies": {
-      "yarn": "project"
+      "yarn": "1.22.19"
     },
     "devDependencies": {
       "browserslist": "project",
